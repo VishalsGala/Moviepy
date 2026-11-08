@@ -1,0 +1,4 @@
+__pycache__/
+*.mp4
+temp_logo.jpg
+.DS_Store
